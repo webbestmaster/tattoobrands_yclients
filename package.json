@@ -1,0 +1,29 @@
+{
+  "name": "tattoobrands_yclients",
+  "version": "1.0.0",
+  "description": "tattoobrands yclients",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webbestmaster/tattoobrands_yclients.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webbestmaster/tattoobrands_yclients/issues"
+  },
+  "homepage": "https://github.com/webbestmaster/tattoobrands_yclients#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.9.0"
+  }
+}
